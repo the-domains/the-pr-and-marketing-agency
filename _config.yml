@@ -1,4 +1,4 @@
-name: 'The PR&Marketing Agency'
+name: The PR&Marketing Agency
 favicon: null
 layout_spectrum: 0.29751515784300864
 typography_spectrum: 0.37617698847316206
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.9273935325909406
+    - '#ffffff'
+    - '#0f1519'
+    - '#c1c4bd'
+    - '#667e8c'
+    - '#535353'
+  brandStrength: 1
   lightness: 0.18217402137815952
   saturation: 0.8577319879550487
   rhythmicContrast: 0.2971851537004113
